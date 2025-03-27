@@ -45,6 +45,10 @@ Communicates with the server for message transmission.
 Protocol:
 Defines how messages are formatted, sent, and interpreted (e.g., JSON, XML, or plain text).
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/ea295d7a-9276-406c-bfb9-2c34c608a80a)
+
 Advantages:
 Concurrent Communication: No delays even with many users connected simultaneously.
 
